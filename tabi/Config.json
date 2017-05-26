@@ -1,0 +1,13 @@
+{
+    "config":{
+        "serverURL":"https://tabi-backend.herokuapp.com",
+        "apiCalls":{
+            "User":{
+                "endpoint":"/users"
+            }
+            "Event":{
+                "endpoint":"/events"
+            }
+        }
+    }
+}

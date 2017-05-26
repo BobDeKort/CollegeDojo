@@ -1,0 +1,6 @@
+framework module Pods_Tabi {
+  umbrella header "Pods-Tabi-umbrella.h"
+
+  export *
+  module * { export * }
+}
